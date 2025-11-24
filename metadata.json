@@ -1,0 +1,5 @@
+{
+  "name": "RepoConcat",
+  "description": "Convert GitHub repositories into a single Markdown documentation file.",
+  "requestFramePermissions": []
+}
